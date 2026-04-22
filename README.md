@@ -1,9 +1,12 @@
 # DA_Mini_Project
 
 ## Student Details 
-• Name: Snehal Shrikant Lokare 
+• Name: Snehal Shrikant Lokare
+
 • Email: snehallokare1008@gmail.com 
+
 • Class/Division: TY. ECM 
+
 • Roll Number: 38
 
 ## Problem Statement 
